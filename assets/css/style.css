@@ -3,6 +3,12 @@ body {
     background-color:#b5bfc9;
 }
 
+/* About me text color */
 h1 {
     color: #525050;
+}
+
+/* Font-size for about me text */
+p {
+    font-size: large;
 }
