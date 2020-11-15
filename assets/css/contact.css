@@ -1,8 +1,13 @@
-/* About me body style */
+/* Contact body style */
 body {
     background-color:#b5bfc9;
 }
 
+/* Submit button color */
 .btn-primary {
     background-color: #333333;
+}
+
+.contact {
+    color: #525050;
 }
