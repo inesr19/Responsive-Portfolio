@@ -3,12 +3,20 @@ body {
     background-color:#b5bfc9;
 }
 
-/* Submit button color */
-.btn-primary {
-    background-color: #333333;
+.nav-wrapper {
+    background-color: #37474f;
 }
 
-/* Contact text color */
-.contact {
-    color: #525050;
+.brand-logo {
+    margin-left: 10px;
+}
+
+/* Submit button color */
+.btn-large {
+    background-color: #37474f;
+}
+
+.btn-large:hover {
+    background-color: #37474f;
+    opacity: 50%;
 }
