@@ -6,11 +6,7 @@ The purpose of this website is to showcase my portfolio for future employers and
 
 ### Screenshots
 
-![About Me Screenshot](https://github.com/inesr19/Responsive-Portfolio/blob/main/assets/images/aboutme.png)
-
-![Portfolio Screenshot](https://github.com/inesr19/Responsive-Portfolio/blob/main/assets/images/Portfolio.png)
-
-![Contact Screenshot](https://github.com/inesr19/Responsive-Portfolio/blob/main/assets/images/contact.png)
+![Portfolio Gif](https://github.com/inesr19/Responsive-Portfolio/blob/main/assets/images/Portfolio.gif)
 
 ### Link
 <https://inesr19.github.io/Responsive-Portfolio/>
