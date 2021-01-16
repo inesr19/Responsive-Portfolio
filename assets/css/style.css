@@ -8,11 +8,16 @@ body {
 }
 
 .brand-logo {
-    margin-left: 10px;
+    margin-left: 5px;
 }
 
 .card-panel {
     background-color: #FFFFF0;
+}
+
+.image {
+    float: left;
+    margin: 15px;
 }
 
 .hover:hover {
