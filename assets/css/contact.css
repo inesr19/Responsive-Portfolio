@@ -1,14 +1,24 @@
 /* Contact body style */
 body {
-    background-color:#b5bfc9;
+    background-image: linear-gradient(270deg, #546e7a 50%, white 95%);
 }
 
 .nav-wrapper {
     background-color: #37474f;
+    box-shadow: 0 0 5px black;
 }
 
 .brand-logo {
     margin-left: 10px;
+}
+
+.card-panel {
+    box-shadow: 0 0 20px;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #525050;
 }
 
 /* Submit button color */
