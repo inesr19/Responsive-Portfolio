@@ -1,6 +1,6 @@
 /* About me body style */
 body {
-    background-image: linear-gradient(180deg, #546e7a 0%, white 95%);
+    background: radial-gradient(#546e7a, white);
 }
 
 .nav-wrapper {
