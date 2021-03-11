@@ -12,6 +12,19 @@ body {
     margin-left: 5px;
 }
 
+ .intro {
+    text-align: center;
+    color: transparent;
+    animation-name: intro;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes intro {
+    from {color: transparent;}
+    to {color: #546e7a;}
+  }
+
 .card-panel {
     box-shadow: 0 0 20px;
     border-radius: 5px;
