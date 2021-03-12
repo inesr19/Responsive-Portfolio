@@ -1,6 +1,6 @@
 /* Contact body style */
 body {
-    background-image: linear-gradient(270deg, #546e7a 50%, white 95%);
+    background-image: url('../images/background.jpg');
 }
 
 .nav-wrapper {
@@ -15,10 +15,11 @@ body {
 .card-panel {
     box-shadow: 0 0 20px;
     border-radius: 5px;
+    background-color: rgba(255, 255, 240, .7);
 }
 
 h1 {
-    color: #525050;
+    color: #546e7a;
 }
 
 /* Submit button color */

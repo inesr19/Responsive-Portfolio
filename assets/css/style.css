@@ -1,6 +1,6 @@
 /* About me body style */
 body {
-    background: radial-gradient(#546e7a, white);
+    background-image: url('../images/background3.jpg');
 }
 
 .nav-wrapper {
@@ -12,15 +12,15 @@ body {
     margin-left: 5px;
 }
 
- .intro {
+ h1 {
     text-align: center;
     color: transparent;
-    animation-name: intro;
+    animation-name: h1;
     animation-duration: 5s;
     animation-fill-mode: forwards;
   }
   
-  @keyframes intro {
+  @keyframes h1 {
     from {color: transparent;}
     to {color: #546e7a;}
   }
@@ -28,6 +28,7 @@ body {
 .card-panel {
     box-shadow: 0 0 20px;
     border-radius: 5px;
+    background-color: rgba(255, 255, 240, .7);
 }
 
 .image {
@@ -39,12 +40,16 @@ body {
     opacity: 75%;
 }
 
-/* About me text color */
-h1 {
-    color: #525050;
-}
-
 /* Font-size for about me text */
 p {
     font-size: large;
+    color: #546e7a;
+    animation-name: p;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
+
+@keyframes p {
+    from {color: transparent;}
+    to {color: #546e7a;}
+  }
